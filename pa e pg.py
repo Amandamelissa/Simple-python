@@ -31,7 +31,6 @@ while po != 2:
                 continue
             elif po == 1:
                 break
-            
         elif e2 == 1:
             a1 = float(input('primeiro termo: '))
             r = float(input('razao: '))
@@ -108,7 +107,6 @@ while po != 2:
             i = int(input('finita[0] ou infinita[1]?'))
             a1 = float(input('A1:'))
             q = float (input('razao: '))
-            
             if i == 0:
                 an = float(input('An: '))
                 n = int(input('quantidade de termos: '))
