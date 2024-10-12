@@ -17,4 +17,4 @@ n3 = int(input('numero 3:'))
 #     print ('digite um numero!')
 num = [n1,n2,n3]
 num.sort()
-print num
+print (num)
