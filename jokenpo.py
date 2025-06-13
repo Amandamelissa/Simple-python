@@ -11,7 +11,7 @@ for j in range (1,10):
     from random import randint
     c = randint(0,2)
     p = int(input ('escolha:'))
-    if p <=0 or p >=2:
+    if p <0 or p >2:
         print ('escolha errada, man')
     elif c==0 and p==2:
         print ('voce perdeu! Escolhi pedra')
