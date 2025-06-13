@@ -1,7 +1,7 @@
 print ('*********')
 print ('*JOKENPO*')
 print ('*********')
-for j in range (1,10):
+while True:
     print ('-----------')
     print ('menu:')
     print ('[0] pedra')
