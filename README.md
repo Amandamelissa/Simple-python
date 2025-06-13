@@ -1,1 +1,1 @@
-Nesse repositorio voce encontrara scripts de nivel basico ao intermediario.
+Nesse repositorio voce encontrara scripts de nivel basico BÁSICO 
